@@ -1,13 +1,13 @@
 body {
-    background-image: url(alexis.jpg);
+    background-image: url(ALEXIS.jpg);
     background-color: #CBC3E3;
     background-size: cover;
     background-repeat: no-repeat;
     height: 75vh;
     background-position: center;
-    width: 750%;
+    width: 75%;
 }
 h1 {
     color: black;
-    font-size: 50px;
+    font-size: 30px;
 }
